@@ -1,2 +1,2 @@
 # Python-Chapter-7
-A repo to store TIYs from Chapter 6.
+This is a collection of Try-It-Yourself projects from chapter 7 of the book Python Crash Course. All programs are completed and imported from PyCharm.
